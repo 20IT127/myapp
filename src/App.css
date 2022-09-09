@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aqua;
+  background-image: -moz-linear-gradient(10,20);
+}
+
+.App1 input {
+  margin-top: 20px;
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+}
+
+p {
+  margin: 5px;
+  font-size: 15px;
+}
